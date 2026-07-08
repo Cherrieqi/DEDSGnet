@@ -1,6 +1,6 @@
 # DEDSGnet
 
-![DEDSGnet](https://github.com/Cherrieqi/DEDSGnet/blob/main/Fig.1.tif)
+![DEDSGnet](https://github.com/Cherrieqi/DEDSGnet/blob/main/DEDSGnet.png)
 
 
 [A De-stylized Expanded Domain Sample Generation Network for Hyperspectral Image Cross-Domain Classification]
